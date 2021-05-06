@@ -4,4 +4,4 @@ Web basada en el sitio https://devchallenges.io/ en donde se trabaja con HTML, C
 
 Funcionalidad limitada en cuanto a hipervínculos/botones ya que se trabajó principalmente en la estructura del sitio.
 
-Página de visita: https://beto1986.github.io/highmos-responsive/
+Página de visita: https://beto1986.github.io/Highmos-Responsive/
